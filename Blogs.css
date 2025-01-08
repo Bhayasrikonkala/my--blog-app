@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:20px;
+    font-family: monospace;
+
+}
+ 
+header{
+    color:cadetblue;
+    text-align: center;
+    font-size: large;
+    background-color: bisque;
+}
+
+main{
+    width: 60%;
+    margin :0;
+}
